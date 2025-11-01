@@ -129,7 +129,7 @@
     -t 15
 ```
 
-### Ví dụ phức tạp (Bonus)
+### Ví dụ bonus
 ```bash
 # Phân tích system log với cấu hình tùy chỉnh
 ./log_monitor.sh /var/log/syslog 5000 \
